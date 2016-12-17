@@ -1,5 +1,5 @@
 # Decision-Trees-Pima
-An exercise in generating decision trees for means of determining likelihood that a member of the Pima Indian has diabetes from pre-existing conditions
+An exercise in generating decision trees for means of determining likelihood that a member of the Pima Indian has diabetes (binary, categorical variable) from pre-existing conditions (nodes)
 
 Modules required: csv, math, numpy, pandas, random, sys
 
